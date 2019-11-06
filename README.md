@@ -7,3 +7,9 @@ This was great practice with C# and I learned how to implement physics in my gam
 as well and create moving objects and add animation to my game objects.
 
 The WebGL build is available to play at https://elangeni.itch.io/platformer
+
+The controls are as follows:
+
+A-move left
+S-jump
+D-move right
